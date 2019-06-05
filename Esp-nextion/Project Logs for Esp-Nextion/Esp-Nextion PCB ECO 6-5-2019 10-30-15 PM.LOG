@@ -1,0 +1,56 @@
+Added Component: Designator=ESP1(ESP8266 V3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(HDR2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Header5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(NEXTION)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3 Pin=H2-5
+Added Pin To Net: NetName=3 Pin=R3-2
+Added Net: Name=3
+Added Pin To Net: NetName=5v Pin=H2-1
+Added Pin To Net: NetName=5v Pin=U1-1
+Added Net: Name=5v
+Added Pin To Net: NetName=GND Pin=ESP1-24
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetESP1_16 Pin=ESP1-16
+Added Pin To Net: NetName=NetESP1_16 Pin=R3-1
+Added Net: Name=NetESP1_16
+Added Pin To Net: NetName=NetESP1_18 Pin=ESP1-18
+Added Pin To Net: NetName=NetESP1_18 Pin=H1-2
+Added Net: Name=NetESP1_18
+Added Pin To Net: NetName=NetESP1_19 Pin=ESP1-19
+Added Pin To Net: NetName=NetESP1_19 Pin=H1-1
+Added Net: Name=NetESP1_19
+Added Pin To Net: NetName=NetESP1_27 Pin=ESP1-27
+Added Pin To Net: NetName=NetESP1_27 Pin=U1-2
+Added Net: Name=NetESP1_27
+Added Pin To Net: NetName=NetESP1_28 Pin=ESP1-28
+Added Pin To Net: NetName=NetESP1_28 Pin=U1-3
+Added Net: Name=NetESP1_28
+Added Pin To Net: NetName=NetESP1_29 Pin=ESP1-29
+Added Pin To Net: NetName=NetESP1_29 Pin=R2-1
+Added Net: Name=NetESP1_29
+Added Pin To Net: NetName=NetESP1_30 Pin=ESP1-30
+Added Pin To Net: NetName=NetESP1_30 Pin=R1-1
+Added Net: Name=NetESP1_30
+Added Pin To Net: NetName=NetH2_3 Pin=H2-3
+Added Pin To Net: NetName=NetH2_3 Pin=R1-2
+Added Net: Name=NetH2_3
+Added Pin To Net: NetName=NetH2_4 Pin=H2-4
+Added Pin To Net: NetName=NetH2_4 Pin=R2-2
+Added Net: Name=NetH2_4
+Added Class: Name=Esp-Nextion
+Added Room: Name=Esp-Nextion
