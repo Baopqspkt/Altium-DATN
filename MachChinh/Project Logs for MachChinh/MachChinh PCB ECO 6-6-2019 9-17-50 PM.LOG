@@ -1,0 +1,7 @@
+Added Component: Designator=H4(Header4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LED1 Pin=H4-1
+Added Pin To Net: NetName=LED2 Pin=H4-2
+Added Pin To Net: NetName=LED3 Pin=H4-3
+Added Pin To Net: NetName=LED4 Pin=H4-4
+Added Member To Class: ClassName=MachChinh Member=Component H4 Header4
