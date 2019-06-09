@@ -1,0 +1,152 @@
+Added Component: Designator=C1(C020-020,040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C020-020,040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C020-020,040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C020-020,040)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(Header4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U3(ACS712)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(ACS712)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U11(ACS712)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U12(ACS712)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=VCC Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U11-5
+Added Pin To Net: NetName=VCC Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U12-5
+Added Pin To Net: NetName=VCC Pin=U12-8
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U3-6
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U6-6
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U11-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U12-6
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R4-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R6-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=OUT1 Pin=H5-1
+Added Pin To Net: NetName=OUT1 Pin=U3-7
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=H5-2
+Added Pin To Net: NetName=OUT2 Pin=U6-7
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=H5-3
+Added Pin To Net: NetName=OUT3 Pin=U11-7
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=H5-4
+Added Pin To Net: NetName=OUT4 Pin=U12-7
+Added Net: Name=OUT4
+Added Pin To Net: NetName=RL1 Pin=RL1-2
+Added Pin To Net: NetName=RL1 Pin=U1-0
+Added Pin To Net: NetName=RL1 Pin=U3-1
+Added Pin To Net: NetName=RL1 Pin=U3-2
+Added Net: Name=RL1
+Added Pin To Net: NetName=RL2 Pin=RL2-2
+Added Pin To Net: NetName=RL2 Pin=U2-0
+Added Pin To Net: NetName=RL2 Pin=U6-1
+Added Pin To Net: NetName=RL2 Pin=U6-2
+Added Net: Name=RL2
+Added Pin To Net: NetName=RL3 Pin=RL3-2
+Added Pin To Net: NetName=RL3 Pin=U4-0
+Added Pin To Net: NetName=RL3 Pin=U11-1
+Added Pin To Net: NetName=RL3 Pin=U11-2
+Added Net: Name=RL3
+Added Pin To Net: NetName=RL4 Pin=RL4-2
+Added Pin To Net: NetName=RL4 Pin=U5-0
+Added Pin To Net: NetName=RL4 Pin=U12-1
+Added Pin To Net: NetName=RL4 Pin=U12-2
+Added Net: Name=RL4
+Added Pin To Net: NetName=RL11 Pin=RL1-1
+Added Pin To Net: NetName=RL11 Pin=U1-1
+Added Pin To Net: NetName=RL11 Pin=U3-4
+Added Net: Name=RL11
+Added Pin To Net: NetName=RL22 Pin=RL2-1
+Added Pin To Net: NetName=RL22 Pin=U2-1
+Added Pin To Net: NetName=RL22 Pin=U6-4
+Added Net: Name=RL22
+Added Pin To Net: NetName=RL33 Pin=RL3-1
+Added Pin To Net: NetName=RL33 Pin=U4-1
+Added Pin To Net: NetName=RL33 Pin=U11-4
+Added Net: Name=RL33
+Added Pin To Net: NetName=RL44 Pin=RL4-1
+Added Pin To Net: NetName=RL44 Pin=U5-1
+Added Pin To Net: NetName=RL44 Pin=U12-4
+Added Net: Name=RL44
+Added Member To Class: ClassName=MachChinh Member=Component C1 CN
+Added Member To Class: ClassName=MachChinh Member=Component C2 CN
+Added Member To Class: ClassName=MachChinh Member=Component C3 CN
+Added Member To Class: ClassName=MachChinh Member=Component C4 CN
+Added Member To Class: ClassName=MachChinh Member=Component H5 Header4
+Added Member To Class: ClassName=MachChinh Member=Component LED1 LED
+Added Member To Class: ClassName=MachChinh Member=Component LED2 LED
+Added Member To Class: ClassName=MachChinh Member=Component LED3 LED
+Added Member To Class: ClassName=MachChinh Member=Component LED4 LED
+Added Member To Class: ClassName=MachChinh Member=Component R3 1k
+Added Member To Class: ClassName=MachChinh Member=Component R4 1k
+Added Member To Class: ClassName=MachChinh Member=Component R5 1k
+Added Member To Class: ClassName=MachChinh Member=Component R6 1k
+Added Member To Class: ClassName=MachChinh Member=Component U3 ACS712
+Added Member To Class: ClassName=MachChinh Member=Component U6 ACS712
+Added Member To Class: ClassName=MachChinh Member=Component U11 ACS712
+Added Member To Class: ClassName=MachChinh Member=Component U12 ACS712
+Added Room: Name=MachChinh
