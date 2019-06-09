@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MachChinh.PrjPCB]
+   Generated File[MachChinh.TXT]
+   Generated File[MachChinh.LDP]
+   Generated File[MachChinh.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:22:59 PM On 6/9/2019
