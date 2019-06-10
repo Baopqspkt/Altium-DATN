@@ -2,19 +2,27 @@
 FileName = MachChinh.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : MachChinh.GTS
+Generating : Mechanical 1
+      File : MachChinh.GM1
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Mechanical 1
 
-    Adding Layer      : Top Layer
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MachChinh.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D20
-    D21
     D22
     D23
     D24
@@ -68,17 +76,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : MachChinh.GBS
+Generating : Top Solder
+      File : MachChinh.GTS
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Solder
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D20
+    D21
     D22
     D23
     D24
@@ -97,6 +107,64 @@ Used DCodes :
     D37
     D38
     D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : MachChinh.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MachChinh.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : MachChinh.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -148,14 +216,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 16
-      File : MachChinh.GM16
+Generating : Keep-Out Layer
+      File : MachChinh.GKO
 
-    Adding Layer      : Mechanical 16
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MachChinh.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -207,75 +284,5 @@ Used DCodes :
     D58
     D59
     D60
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : MachChinh.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : MachChinh.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : MachChinh.GD1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : MachChinh.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D61
 *************************************************************
 

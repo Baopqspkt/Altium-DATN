@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\DO AN 2 NONG TRAI THONG MINH\MachChinh.PcbDoc
+DRC Rules Export File for PCB: D:\DATN_XLA\Altium\MachChinh\MachChinh.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=29.53
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=19.69
