@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetESP1_30 Pin=R1-1
+Removed Pin From Net: NetName=NetESP1_29 Pin=R2-1
+Removed Pin From Net: NetName=3 Pin=R3-2
+Removed Member From Class: ClassName=Esp-Nextion Member=R1
+Removed Member From Class: ClassName=Esp-Nextion Member=R2
+Removed Member From Class: ClassName=Esp-Nextion Member=R3
+Added Pin To Net: NetName=3 Pin=ESP1-16
+Added Pin To Net: NetName=NetESP1_30 Pin=H2-3
+Added Pin To Net: NetName=NetESP1_29 Pin=H2-4
