@@ -1,0 +1,15 @@
+Added Component: Designator=H6(Header4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U13(USB_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LED4 Pin=H6-1
+Added Pin To Net: NetName=LED2 Pin=H6-2
+Added Pin To Net: NetName=LED1 Pin=H6-3
+Added Pin To Net: NetName=LED3 Pin=H6-4
+Added Pin To Net: NetName=GND Pin=U13-1
+Added Pin To Net: NetName=VCC Pin=U13-4
+Added Pin To Net: NetName=VCC Pin=U13-5
+Added Pin To Net: NetName=GND Pin=U13-8
+Added Member To Class: ClassName=MachChinh Member=Component H6 Header4
+Added Member To Class: ClassName=MachChinh Member=Component U13 USB_2
+Added Room: Name=MachChinh
