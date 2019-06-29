@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=Mach-rasp Member=U1
+Removed Member From Class: ClassName=Mach-rasp Member=U4
+Added Component: Designator=H4(Header4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(Header4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(USB_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VCC Pin=U6-4
+Added Pin To Net: NetName=VCC Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=C1 Pin=H4-1
+Added Pin To Net: NetName=C1 Pin=U3-6
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=H4-2
+Added Pin To Net: NetName=C2 Pin=U3-7
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=H4-3
+Added Pin To Net: NetName=C3 Pin=U3-8
+Added Net: Name=C3
+Added Pin To Net: NetName=C4 Pin=H4-4
+Added Pin To Net: NetName=C4 Pin=U3-10
+Added Net: Name=C4
+Added Pin To Net: NetName=H1 Pin=H5-1
+Added Pin To Net: NetName=H1 Pin=U3-30
+Added Net: Name=H1
+Added Pin To Net: NetName=H2 Pin=H5-2
+Added Pin To Net: NetName=H2 Pin=U3-29
+Added Net: Name=H2
+Added Pin To Net: NetName=H3 Pin=H5-3
+Added Pin To Net: NetName=H3 Pin=U3-28
+Added Net: Name=H3
+Added Pin To Net: NetName=H4 Pin=H5-4
+Added Pin To Net: NetName=H4 Pin=U3-27
+Added Net: Name=H4
+Added Member To Class: ClassName=Mach-rasp Member=Component H4 Header4
+Added Member To Class: ClassName=Mach-rasp Member=Component H5 Header4
+Added Member To Class: ClassName=Mach-rasp Member=Component U6 USB_2

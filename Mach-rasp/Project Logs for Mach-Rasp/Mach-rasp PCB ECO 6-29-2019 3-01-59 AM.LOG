@@ -1,0 +1,18 @@
+Added Component: Designator=U1(Terminal 5.08)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(Terminal 5.08)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetRL1_1 Pin=RL1-1
+Added Pin To Net: NetName=NetRL1_1 Pin=U1-2
+Added Net: Name=NetRL1_1
+Added Pin To Net: NetName=NetRL1_2 Pin=RL1-2
+Added Pin To Net: NetName=NetRL1_2 Pin=U1-1
+Added Net: Name=NetRL1_2
+Added Pin To Net: NetName=NetRL2_1 Pin=RL2-1
+Added Pin To Net: NetName=NetRL2_1 Pin=U4-2
+Added Net: Name=NetRL2_1
+Added Pin To Net: NetName=NetRL2_2 Pin=RL2-2
+Added Pin To Net: NetName=NetRL2_2 Pin=U4-1
+Added Net: Name=NetRL2_2
+Added Member To Class: ClassName=Mach-rasp Member=Component U1 Terminal
+Added Member To Class: ClassName=Mach-rasp Member=Component U4 Terminal

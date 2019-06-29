@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MachChinh.GBR   6/15/2019  10:50:36 AM
+Gerber File Extension Report For: MachChinh.GBR   6/16/2019  1:46:16 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -8,12 +8,12 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
 .GBL                Bottom Layer                            
-.GPB                Bottom Pad Master                       
 .GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
 .GTO                Top Overlay                             
+.GBS                Bottom Solder                           
 .GTP                Top Paste                               
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
