@@ -1,0 +1,14 @@
+Added Component: Designator=HD2(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=U2(Terminal 5.08)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetHD2_1 Pin=HD2-1
+Added Pin To Net: NetName=NetHD2_1 Pin=U2-1
+Added Net: Name=NetHD2_1
+Added Pin To Net: NetName=NetHD2_2 Pin=HD2-2
+Added Pin To Net: NetName=NetHD2_2 Pin=U2-2
+Added Net: Name=NetHD2_2
+Added Member To Class: ClassName=ra-chan Member=Component HD2 Header 2
+Added Member To Class: ClassName=ra-chan Member=Component U2 Terminal
+Added Room: Name=ra-chan
