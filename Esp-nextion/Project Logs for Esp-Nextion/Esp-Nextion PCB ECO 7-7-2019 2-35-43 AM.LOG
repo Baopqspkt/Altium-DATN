@@ -1,0 +1,24 @@
+Added Component: Designator=H3(Header5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(Header5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(NEXTION)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5v Pin=H3-1
+Added Pin To Net: NetName=5v Pin=H3-2
+Added Pin To Net: NetName=5v Pin=H3-3
+Added Pin To Net: NetName=5v Pin=H3-4
+Added Pin To Net: NetName=5v Pin=H3-5
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=GND Pin=H4-3
+Added Pin To Net: NetName=GND Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H4-5
+Added Pin To Net: NetName=5v Pin=U1-1
+Added Pin To Net: NetName=NetESP1_29 Pin=U1-2
+Added Pin To Net: NetName=NetESP1_28 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Member To Class: ClassName=Esp-Nextion Member=Component H3 Header5
+Added Member To Class: ClassName=Esp-Nextion Member=Component H4 Header5
+Added Member To Class: ClassName=Esp-Nextion Member=Component U1 NEXTION
+Added Room: Name=Esp-Nextion
