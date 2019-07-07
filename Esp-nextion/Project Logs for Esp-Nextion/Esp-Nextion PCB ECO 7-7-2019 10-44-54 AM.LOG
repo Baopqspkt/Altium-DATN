@@ -1,0 +1,8 @@
+Added Component: Designator=U3(USB_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=5v Pin=U3-4
+Added Pin To Net: NetName=5v Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Member To Class: ClassName=Esp-Nextion Member=Component U3 USB_2
+Added Room: Name=Esp-Nextion
